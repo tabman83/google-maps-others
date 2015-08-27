@@ -1,4 +1,5 @@
-# google-maps-others
+google-maps-others
+==================
 
 > This example demonstrate how to embed tiles from different providers as a layer within a Google Map (i.e. using the google maps javascript library for map display, but displaying other map tiles).
 
@@ -10,6 +11,9 @@
 - Here Maps from Nokia
 - TomTom
 - Waze
+
+## Demo
+Watch the live sample in action on the [demo page](http://tabman83.github.io/google-maps-others/).
 
 ## License
 
