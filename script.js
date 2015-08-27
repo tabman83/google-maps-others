@@ -20,7 +20,7 @@ window.initMap = function() {
 		scaleControl: true,
 		zoomControl: true,
 		mapTypeControlOptions: {
-            mapTypeIds: mapTypeIds,
+            mapTypeIds: mapTypeIds
         }
 	});
 
