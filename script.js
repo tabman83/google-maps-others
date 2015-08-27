@@ -21,7 +21,6 @@ window.initMap = function() {
 		zoomControl: true,
 		mapTypeControlOptions: {
             mapTypeIds: mapTypeIds,
-			style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
         }
 	});
 
