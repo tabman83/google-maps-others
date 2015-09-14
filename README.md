@@ -15,6 +15,9 @@ google-maps-others
 ## Demo
 Watch the live sample in action on the [demo page](http://tabman83.github.io/google-maps-others/).
 
+## Notes on Google Maps API for Work
+If you are a business user you are licensing the Google Maps API for Work, so to use any other map with the Google API would mean an Enterprise license is needed as stated in the T’s & C’s.
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
